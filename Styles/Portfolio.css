@@ -59,6 +59,7 @@ header {
     background-repeat: no-repeat;
     background-position: 23px 38px, bottom right;
     padding-top: 50px;
+    background-size: 90px auto, auto;
 }
 
 nav{
